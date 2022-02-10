@@ -1,0 +1,788 @@
+,Ticker,Analyst,Value
+0,GNC,Analyst_8737541,-0.03
+1,GNC,Sentinel,-0.01
+2,GNC,Bill,0
+3,GNC,Frederick Tremblay,0.02
+4,GNC,Analyst_7411292,-0.10
+5,GNC,Buck_446488,0.07
+6,PAG,"Michael Ward, CFA",1.42
+7,PAG,JH839712,1.43
+8,PAG,Sentinel,1.43
+9,PAG,Stephanie Benjamin,1.45
+10,PAG,Buck_731812,1.38
+11,PAG,Bill,1.38
+12,PAG,Medic2525,1.37
+13,PAG,Frederick Tremblay,1.36
+14,PAG,Buck_138258,1.48
+15,PAG,Buck_504550,1.49
+16,ABG,Buck_138258,2.29
+17,ABG,Ron,2.37
+18,ABG,Sentinel,2.38
+19,ABG,Bill,2.39
+20,ABG,Frederick Tremblay,2.41
+21,ABG,Stephanie Benjamin,2.23
+22,ABG,"Bret Jordan, CFA",2.18
+23,ABG,Hannibalagrippa,2.55
+24,SYX,Frederick Tremblay,0.38
+25,SYX,Sentinel,0.41
+26,SYX,Kulo,0.41
+27,SYX,Bill,0.42
+28,MNRO,maggieb,0.61
+29,MNRO,stevezim,0.61
+30,MNRO,PCLA,0.61
+31,MNRO,JH839712,0.60
+32,MNRO,Neil_Martin,0.60
+33,MNRO,SEE_Autonomy,0.60
+34,MNRO,hyperionives,0.60
+35,MNRO,tlm1tlm,0.60
+36,MNRO,Analyst_8626722,0.60
+37,MNRO,Roman Novacek,0.60
+38,MNRO,Eric,0.60
+39,MNRO,Michael Bertogli,0.60
+40,MNRO,Bill,0.60
+41,MNRO,Mehrwert,0.60
+42,MNRO,JD_500347619,0.60
+43,MNRO,dalton,0.60
+44,MNRO,Mark Connollly,0.60
+45,MNRO,SM_Georg,0.60
+46,MNRO,PM,0.60
+47,MNRO,Richard Wickstrom,0.60
+48,MNRO,Zilvinas Speteliunas,0.60
+49,MNRO,Analyst_656238,0.59
+50,MNRO,Fernando Aldana,0.59
+51,MNRO,larrylai,0.59
+52,MNRO,JacksonWeeks,0.59
+53,MNRO,Ram,0.59
+54,MNRO,Rob Ford,0.59
+55,MNRO,Frederick Tremblay,0.59
+56,MNRO,Bob S.,0.58
+57,MNRO,"Bret Jordan, CFA",0.57
+58,MNRO,Stephanie Benjamin,0.57
+59,MNRO,Scott Hendricks,0.57
+60,MNRO,loopie,0.57
+61,MNRO,Giacomo,0.57
+62,MNRO,UcanQuote_me,0.57
+63,MNRO,Ali Faghri,0.56
+64,MNRO,NM501169,0.54
+65,HZO,BR604079,0.83
+66,HZO,Neil_Martin,0.83
+67,HZO,Sean,0.85
+68,HZO,Michael Swartz,0.82
+69,HZO,Malette,0.81
+70,HZO,Frederick Tremblay,0.87
+71,HZO,Bill,0.87
+72,HZO,Analyst_656238,0.87
+73,HZO,SM_Georg,0.87
+74,HZO,Zilvinas Speteliunas,0.87
+75,HZO,maggieb,0.80
+76,HZO,hyperionives,0.88
+77,HZO,Scott Hendricks,0.88
+78,HZO,Eric,0.88
+79,HZO,Ron,0.88
+80,HZO,PM,0.88
+81,HZO,dalton,0.79
+82,HZO,Analyst_5795851,0.89
+83,HZO,Ram,0.89
+84,HZO,AAFED,0.89
+85,HZO,Analyst_8134075,0.89
+86,HZO,Rob Ford,0.78
+87,HZO,loopie,0.90
+88,HZO,larrylai,0.91
+89,HZO,Analyst_8626722,0.92
+90,HZO,Analyst_2278908,0.92
+91,HZO,Sentinel,0.92
+92,HZO,lect,0.93
+93,HZO,jfffrmm,0.94
+94,HZO,tradersergi,0.95
+95,HZO,SW928706,0.97
+96,ORLY,Bill,4.84
+97,ORLY,bsears2386,4.82
+98,ORLY,Analyst_8532270,4.80
+99,ORLY,kerry burrell,4.80
+100,ORLY,Frederick Tremblay,4.80
+101,ORLY,"Brian Nagel, CFA",4.79
+102,ORLY,Sentinel,4.79
+103,ORLY,TV447703,4.79
+104,ORLY,Analyst_3368548,4.78
+105,ORLY,Bob S.,4.78
+106,ORLY,MSS_3Q19,4.76
+107,ORLY,loopie,4.76
+108,ORLY,Analyst_397314,4.75
+109,ORLY,panda_w,4.73
+110,ORLY,Aram Balian,4.70
+111,ORLY,Ron,4.70
+112,ORLY,NM501169,4.69
+113,ORLY,SW928706,4.69
+114,ORLY,"Bret Jordan, CFA",4.67
+115,ORLY,Medic2525,4.67
+116,RCII,Frederick Tremblay,0.48
+117,RCII,TV447703,0.50
+118,RCII,Dem,0.50
+119,RCII,SunRay,0.50
+120,RCII,Bob S.,0.50
+121,RCII,JBBOEVE,0.50
+122,RCII,Bill,0.52
+123,RCII,Proximilar AI,0.55
+124,RCII,Medic2525,0.57
+125,RCII,NM501169,-0.01
+126,HVT,Bill,0.36
+127,HVT,Sentinel,0.38
+128,HVT,Frederick Tremblay,0.38
+129,HVT,Medic2525,0.38
+130,AAN,NM501169,0.74
+131,AAN,CC505328,0.74
+132,AAN,"William Chappell, Jr.",0.77
+133,AAN,Sentinel,0.81
+134,AAN,Frederick Tremblay,0.81
+135,AAN,Bill,0.83
+136,AAN,Analyst_1886552,0.83
+137,AAN,Ron,0.84
+138,AAN,TV447703,0.85
+139,AAN,Medic2525,0.85
+140,AAN,Hannibalagrippa,0.95
+141,GPI,skymile123,2.82
+142,GPI,Buck_138258,2.77
+143,GPI,Sentinel,2.76
+144,GPI,Bill,2.76
+145,GPI,Frederick Tremblay,2.75
+146,GPI,"Michael Ward, CFA",2.73
+147,SAH,Bill,0.59
+148,SAH,Frederick Tremblay,0.56
+149,SAH,Buck_138258,0.47
+150,SAH,Sentinel,0.46
+151,SAH,"Bret Jordan, CFA",0.39
+152,SAH,aaaa7777,0.39
+153,FND,Joseph Feldman,0.27
+154,FND,Analyst_9166593,0.27
+155,FND,Frederick Tremblay,0.27
+156,FND,Sentinel,0.28
+157,FND,Robert,0.26
+158,FND,Bill,0.28
+159,FND,Fincrease,0.26
+160,FND,Bob S.,0.26
+161,FND,Medic2525,0.28
+162,FND,Dolwhale,0.31
+163,XOXO,Bill,0.19
+164,XOXO,Frederick Tremblay,0.19
+165,XOXO,Mark Connollly,0.19
+166,XOXO,mehdizare,0.18
+167,XOXO,Darren Aftahi,0.17
+168,XOXO,Analyst_2299911,0.15
+169,LL,Keith Hughes,0.16
+170,LL,Bill,0.19
+171,LL,Proximilar AI,0.21
+172,LL,Ron,0.21
+173,LL,Analyst_5650290,0.22
+174,LL,Analyst_5741553,0.22
+175,LL,Analyst_9351012,-0.06
+176,LL,Analyst_3182177,0.22
+177,LL,DSivarajan,0.22
+178,LL,Medic2525,0.22
+179,LL,Frederick Tremblay,0.23
+180,LL,"Brian Nagel, CFA",0.24
+181,LL,Analyst_8340231,0.24
+182,LL,Analyst_5841627,0.24
+183,LL,Analyst_1232357,0.24
+184,LL,Analyst_1389743,-0.10
+185,LL,Sentinel,0.27
+186,LL,Blindcheck,0.36
+187,CWH,Analyst_9851480,0.21
+188,CWH,robert brand,0.22
+189,CWH,Bill,0.24
+190,CWH,Proximilar AI,0.24
+191,CWH,BR604079,0.25
+192,CWH,Analyst_1826127,0.28
+193,CWH,u94_llamoure,0.32
+194,CWH,Analyst_4716043,0.34
+195,CWH,Frederick Tremblay,0.36
+196,CWH,Medic2525,-0.26
+197,CWH,SW928706,0.55
+198,CWH,NR802552,0.55
+199,CWH,Analyst_3368548,0.55
+200,CWH,"Bret Jordan, CFA",0.65
+201,L,Bill,0.80
+202,L,serp,0.75
+203,L,Frederick Tremblay,0.75
+204,MED,Sentinel,1.34
+205,MED,Analyst_4461064,1.34
+206,MED,Mike,1.35
+207,MED,Analyst_883247,1.37
+208,MED,Frederick Tremblay,1.39
+209,MED,Bill,1.39
+210,MED,Proximilar AI,1.39
+211,MED,Medic2525,1.41
+212,VSI,Frederick Tremblay,1
+213,VSI,Proximilar AI,2
+214,VSI,Bill,3
+215,VSI,Medic2525,4
+216,TA,Scott Hendricks,1.04
+217,TA,Proximilar AI,1.12
+218,TA,Frederick Tremblay,1.19
+219,TA,Bill,1.20
+220,TA,Sentinel,1.30
+221,FTD,Sentinel,-0.15
+222,ODP,Bumblebear3012,1.50
+223,ODP,Bill,1.50
+224,ODP,Earnings AI,1.40
+225,ODP,Sentinel,1.40
+226,ODP,Diligence_Fund,1.40
+227,ODP,Proximilar AI,1.60
+228,ODP,Analyst_397314,1.30
+229,ODP,Frederick Tremblay,1.30
+230,ODP,Medic2525,0.80
+231,PRTY,Proximilar AI,-0.01
+232,PRTY,Frederick Tremblay,0.01
+233,PRTY,Joseph Feldman,0.01
+234,PRTY,Bill,0.01
+235,PRTY,Medic2525,0.01
+236,PRTY,Analyst_3195847,0.03
+237,AAP,Ron,2.08
+238,AAP,TV447703,2.07
+239,AAP,JBBOEVE,2.07
+240,AAP,Analyst_3715541,2.07
+241,AAP,Analyst_4139725,2.07
+242,AAP,Bob S.,2.07
+243,AAP,Analyst_3642898,2.14
+244,AAP,Analyst_9052899,2.15
+245,AAP,Bill,2.05
+246,AAP,"Bret Jordan, CFA",2.16
+247,AAP,robert brand,2.04
+248,AAP,Proximilar AI,2.16
+249,AAP,NM501169,2.02
+250,AAP,SW928706,2.02
+251,AAP,"Brian Nagel, CFA",2.18
+252,AAP,Frederick Tremblay,1.98
+253,SBH,"Rupesh Parikh, CFA",0.59
+254,SBH,Sentinel,0.59
+255,SBH,Frederick Tremblay,0.59
+256,SBH,Bill,0.59
+257,SBH,Analyst_5840956,0.58
+258,SBH,Analyst_9227622,0.57
+259,SBH,Stephanie Wissink,0.55
+260,SQBG,Bill,-0.80
+261,SQBG,"Dave King, CFA",0
+262,SQBG,Frederick Tremblay,0
+263,SQBG,Medic2525,-1.60
+264,SQBG,Camilo Lyon,5.20
+265,SQBG,Camilo Lyon,5.20
+266,CRMT,Bill,1.08
+267,CRMT,Mark Connollly,1.07
+268,CRMT,Seandc37796,1.06
+269,CRMT,Frederick Tremblay,1.04
+270,CRMT,Kyle Joseph,1.02
+271,CRMT,John Hecht,0.84
+272,HD,Sam0808,2.53
+273,HD,Analyst_4246245,2.53
+274,HD,Analyst_7004344,2.53
+275,HD,Analyst_908965,2.53
+276,HD,Gary,2.53
+277,HD,hxg121130,2.52
+278,HD,Joseph Feldman,2.52
+279,HD,Analyst_6300678,2.52
+280,HD,Analyst_8935703,2.52
+281,HD,Analyst_7218326,2.52
+282,HD,Analyst_4705359,2.52
+283,HD,JBBOEVE,2.52
+284,HD,Analyst_6526639,2.52
+285,HD,Analyst_6414753,2.52
+286,HD,Sentinel,2.52
+287,HD,Bob S.,2.52
+288,HD,Yuekang_Yang,2.54
+289,HD,"Brian Nagel, CFA",2.54
+290,HD,Analyst_6938076,2.54
+291,HD,Analyst_6530457,2.54
+292,HD,PPinvest,2.54
+293,HD,Analyst_6938022,2.54
+294,HD,Shawn P. Cooney,2.54
+295,HD,Don Pagach,2.54
+296,HD,Vitaly,2.54
+297,HD,serp,2.54
+298,HD,stig55,2.54
+299,HD,Analyst_3270904,2.54
+300,HD,"Jonathan Matuszewski, CFA",2.51
+301,HD,riccardo_m,2.55
+302,HD,Analyst_269716,2.55
+303,HD,Analyst_8985351,2.55
+304,HD,Analyst_9674641,2.55
+305,HD,Michael Merry,2.51
+306,HD,Helsou,2.55
+307,HD,Analyst_4763482,2.55
+308,HD,Analyst_6993798,2.55
+309,HD,Zach_ghalayini,2.55
+310,HD,PJH,2.50
+311,HD,aaaa7777,2.56
+312,HD,skr140130,2.56
+313,HD,Analyst_4703258,2.56
+314,HD,Analyst_883247,2.56
+315,HD,Analyst_9736811,2.56
+316,HD,Keith Hughes,2.49
+317,HD,Nick,2.57
+318,HD,Marty Lardy,2.57
+319,HD,Hannibalagrippa,2.57
+320,HD,Ordie1,2.48
+321,HD,zling,2.58
+322,HD,Kyzmoff,2.58
+323,HD,sugarfysh,2.58
+324,HD,SenatorKevin,2.58
+325,HD,Davis Lundberg,2.58
+326,HD,Analyst_5476411,2.58
+327,HD,Analyst_umbi,2.47
+328,HD,Analyst_4321238,2.59
+329,HD,Frederick Tremblay,2.59
+330,HD,Reinier_Doppler,2.60
+331,HD,rpajam,2.60
+332,HD,elkmohawk,2.60
+333,HD,Bill,2.60
+334,HD,Ancano,2.60
+335,HD,StatsJim,2.60
+336,HD,Analyst_6348688,2.60
+337,HD,Analyst_592148,2.60
+338,HD,Analyst_3987039,2.60
+339,HD,RaghuRam,2.60
+340,HD,ShadowLibra,2.60
+341,HD,Bill_Maurer,2.60
+342,HD,NSmith,2.61
+343,HD,Scott Hendricks,2.61
+344,HD,Proximilar AI,2.62
+345,HD,Analyst_2324489,2.62
+346,HD,NightHawk,2.62
+347,HD,dibsfins,2.63
+348,HD,eptest,2.63
+349,HD,Analyst_5498960,2.64
+350,HD,PriceJuggler,2.65
+351,HD,VMFrancis,2.65
+352,HD,Harry Major,2.65
+353,HD,"Daniel Binder, CFA",2.23
+354,HD,Analyst_384218,2.14
+355,BKS,Frederick Tremblay,1.01
+356,BKS,Sentinel,1.00
+357,BKS,Analyst_5920439,0.99
+358,BKS,Bob S.,0.99
+359,BKS,Mark Connollly,0.98
+360,BKS,Fernando Aldana,0.97
+361,BKS,rrg1964,0.96
+362,BKS,JJM,0.95
+363,BKS,elkmohawk,0.95
+364,BKS,Bill,0.94
+365,LOW,Proximilar AI,1.42
+366,LOW,Keith Hughes,1.39
+367,LOW,dbarkalov,1.39
+368,LOW,Ron,1.38
+369,LOW,AhmedTheGreat7,1.38
+370,LOW,Helsou,1.37
+371,LOW,Will,1.37
+372,LOW,Bill,1.37
+373,LOW,serp,1.37
+374,LOW,Analyst_180572,1.37
+375,LOW,StormOfHeros,1.36
+376,LOW,Analyst_8532270,1.36
+377,LOW,Sentinel,1.36
+378,LOW,Vitaly,1.36
+379,LOW,rkwong00,1.36
+380,LOW,MatthewJH,1.36
+381,LOW,Joseph Feldman,1.35
+382,LOW,Analyst_3715541,1.35
+383,LOW,JBBOEVE,1.34
+384,LOW,Frederick Tremblay,1.34
+385,LOW,Analyst_1545252,1.34
+386,LOW,Analyst_2206610,1.33
+387,LOW,"Brian Nagel, CFA",1.32
+388,LOW,mfme,1.32
+389,LOW,RaghuRam,1.32
+390,LOW,"Daniel Binder, CFA",1.30
+391,LOW,"Jonathan Matuszewski, CFA",1.04
+392,TJX,Analyst_3098587,0.63
+393,TJX,PCLA,0.63
+394,TJX,Mehrwert,0.63
+395,TJX,Analyst_1468046,0.63
+396,TJX,Analyst_1545252,0.63
+397,TJX,Analyst_1390165,0.63
+398,TJX,Analyst_8729406,0.63
+399,TJX,Fernando Aldana,0.62
+400,TJX,Bill,0.64
+401,TJX,JCL_Test,0.62
+402,TJX,Analyst_8301153,0.62
+403,TJX,Mark Connollly,0.64
+404,TJX,stevezim,0.62
+405,TJX,androsForm,0.62
+406,TJX,Tyler Davis,0.64
+407,TJX,Analyst_7363714,0.64
+408,TJX,UcanQuote_me,0.62
+409,TJX,NM501169,0.61
+410,TJX,Pamela Quintiliano,0.61
+411,TJX,Frederick Tremblay,0.61
+412,TJX,Janine Stichter,0.61
+413,TJX,TV447703,0.61
+414,TJX,WallStMonkey,0.65
+415,TJX,Bob S.,0.61
+416,TJX,Fincrease,0.61
+417,TJX,Zach Mazzeo,0.65
+418,TJX,Analyst_4782037,0.61
+419,TJX,Randal Konik,0.60
+420,TJX,Analyst_9166593,0.60
+421,TJX,Analyst_2779233,0.58
+422,TJX,Dana Telsey,0.69
+423,TJX,rrando,0.55
+424,TJX,Bill Dreher,0.71
+425,TJX,Analyst_879688,0.54
+426,LB,Analyst_2685543,0.02
+427,LB,Analyst_2510548,0.02
+428,LB,Analyst_1844295,0.02
+429,LB,Bob S.,0.02
+430,LB,Analyst_4411162,0.03
+431,LB,Sentinel,0.03
+432,LB,Vitaly,0.03
+433,LB,Frederick Tremblay,0.03
+434,LB,RaghuRam,0.03
+435,LB,Ron,0.03
+436,LB,Analyst_8752159,0.03
+437,LB,Analyst_908965,0.01
+438,LB,Jagator904,0.01
+439,LB,Analyst_4716043,0
+440,LB,Dana Telsey,0
+441,LB,mfme,0
+442,LB,MatthewJH,0.04
+443,LB,Analyst_2279746,0.05
+444,LB,osodeoro,0.05
+445,LB,Analyst_9023061,0.05
+446,LB,Proximilar AI,0.05
+447,LB,defjam,0.05
+448,LB,Sam0808,0.05
+449,LB,Bill,0.06
+450,LB,Analyst_5795851,0.06
+451,LB,Bill_Maurer,0.06
+452,LB,Analyst_8075381,0.06
+453,LB,SmitandCo,0.06
+454,LB,H_Sweeney,-0.02
+455,LB,Analyst_4397763,0.10
+456,LB,u94_llamoure,0.10
+457,LB,Analyst_5222960,0.14
+458,LB,Randal Konik,0.16
+459,SCVL,Sentinel,0.46
+460,SCVL,Frederick Tremblay,0.46
+461,SCVL,Bob S.,0.46
+462,SCVL,Vitaly,0.45
+463,SCVL,Bill,0.44
+464,SCVL,bdarbe11,0.44
+465,SCVL,Sam Poser,0.40
+466,SCVL,Randal Konik,0.29
+467,PLCE,Dana Telsey,3.03
+468,PLCE,Analyst_3715541,3.03
+469,PLCE,Bill,3.02
+470,PLCE,Medic2525,3.04
+471,PLCE,Proximilar AI,3.06
+472,PLCE,Frederick Tremblay,2.98
+473,PLCE,Analyst_167857,3.12
+474,PLCE,Rick Weinhart,3.13
+475,PLCE,Sentinel,3.17
+476,PLCE,Analyst_5498960,2.85
+477,SSI,Bill,-0.88
+478,SSI,jd5171,-0.59
+479,SSI,Analyst_1355957,-0.80
+480,SSI,Sentinel,-0.75
+481,SSI,Bob S.,-0.73
+482,SSI,Analyst_1765893,0.02
+483,CATO,Bill,0.47
+484,CATO,Ron,0.26
+485,ROST,Analyst_9234134,1.01
+486,ROST,Proximilar AI,1.00
+487,ROST,kerry burrell,0.99
+488,ROST,Bill,0.99
+489,ROST,serp,0.99
+490,ROST,panda_w,0.99
+491,ROST,Sentinel,0.98
+492,ROST,Frederick Tremblay,0.98
+493,ROST,Bob S.,0.97
+494,ROST,Analyst_6826574,0.97
+495,ROST,Buck_106696,0.96
+496,ROST,Dana Telsey,0.96
+497,ROST,Janine Stichter,0.91
+498,ROST,TV447703,0.91
+499,ROST,Randal Konik,0.89
+500,ROST,NM501169,0.88
+501,WSM,Gary,1.02
+502,WSM,Joseph Feldman,1.03
+503,WSM,jchiao,1.01
+504,WSM,Analyst_5039344,1.03
+505,WSM,Zach Mazzeo,1.03
+506,WSM,Analyst_4146227,1.03
+507,WSM,Sentinel,1.01
+508,WSM,Frederick Tremblay,1.03
+509,WSM,kerry burrell,1.03
+510,WSM,MSS_3Q19,1.03
+511,WSM,GregTripple,1.00
+512,WSM,Bill,1.04
+513,WSM,Jere_Plum,1.04
+514,WSM,Medic2525,1.04
+515,WSM,Bob S.,1.00
+516,WSM,Buck_762529,0.99
+517,WSM,"Brian Nagel, CFA",0.99
+518,WSM,"Cristina Fernández, CPA",1.05
+519,WSM,defjam,1.05
+520,WSM,Analyst_5653902,1.05
+521,WSM,Analyst_9851480,1.05
+522,WSM,Josephine,1.05
+523,WSM,Proximilar AI,1.06
+524,WSM,Analyst_5498960,1.06
+525,WSM,Bill_Maurer,1.07
+526,WSM,Analyst_3290108,1.08
+527,WSM,"Daniel Binder, CFA",0.95
+528,WSM,"Jonathan Matuszewski, CFA",0.95
+529,WSM,Analyst_2324096,0.90
+530,WSM,Dennis,1.20
+531,CAL,Rick Patel,0.81
+532,CAL,bdarbe11,0.81
+533,CAL,Frederick Tremblay,0.83
+534,CAL,Sentinel,0.85
+535,CAL,Bill,0.85
+536,CAL,Piranic,0.85
+537,CAL,Proximilar AI,0.86
+538,CAL,Randal Konik,0.91
+539,CAL,Earnings AI,1.00
+540,FL,Analyst_9166593,1.13
+541,FL,"Cristina Fernández, CPA",1.11
+542,FL,Scott Hendricks,1.11
+543,FL,Analyst_8075381,1.10
+544,FL,Proximilar AI,1.10
+545,FL,Camilo Lyon,1.09
+546,FL,Vitaly,1.09
+547,FL,kerry burrell,1.09
+548,FL,somm0008,1.09
+549,FL,Ram,1.09
+550,FL,Analyst_5795851,1.09
+551,FL,serp,1.09
+552,FL,Analyst_4146227,1.09
+553,FL,Richard Wickstrom,1.09
+554,FL,Zilvinas Speteliunas,1.09
+555,FL,larrylai,1.08
+556,FL,Bill,1.08
+557,FL,Sentinel,1.08
+558,FL,AAFED,1.08
+559,FL,Fernando Aldana,1.08
+560,FL,Analyst_2278908,1.07
+561,FL,Analyst_9980122,1.07
+562,FL,Big_Mac,1.06
+563,FL,PM,1.06
+564,FL,jfffrmm,1.05
+565,FL,hyperionives,1.05
+566,FL,Rob Ford,1.05
+567,FL,dalton,1.05
+568,FL,Frederick Tremblay,1.04
+569,FL,BirdT,1.04
+570,FL,Randal Konik,1.03
+571,FL,Analyst_1409864,1.03
+572,FL,Buck_106696,1.02
+573,FL,GregTripple,1.00
+574,FL,Camilo Lyon,0.99
+575,FL,Analyst_5522138,0.99
+576,FL,defjam,0.98
+577,FL,Joseph Feldman,0.97
+578,FL,Janine Stichter,0.95
+579,HIBB,hyperionives,0.15
+580,HIBB,Michael Bertogli,0.15
+581,HIBB,Scott Hendricks,0.15
+582,HIBB,UcanQuote_me,0.16
+583,HIBB,Mehrwert,0.17
+584,HIBB,Bill,0.17
+585,HIBB,Ocelogic,0.17
+586,HIBB,Camilo Lyon,0.11
+587,HIBB,Frederick Tremblay,0.18
+588,HIBB,Jesse,0.18
+589,HIBB,Richard Wickstrom,0.18
+590,HIBB,Sam Poser,0.19
+591,HIBB,Analyst_4782037,0.19
+592,HIBB,ETFhub,0.19
+593,HIBB,Bob S.,0.19
+594,HIBB,Fernando Aldana,0.19
+595,HIBB,Analyst_611023,0.19
+596,HIBB,Mark Connollly,0.19
+597,HIBB,PCLA,0.20
+598,HIBB,larrylai,0.20
+599,HIBB,Zilvinas Speteliunas,0.20
+600,HIBB,dalton,0.20
+601,HIBB,Zach Mazzeo,0.20
+602,HIBB,PM,0.20
+603,HIBB,JacksonWeeks,0.21
+604,HIBB,Rob Ford,0.21
+605,HIBB,Analyst_656238,0.21
+606,HIBB,SM_Georg,0.21
+607,HIBB,loopie,0.21
+608,HIBB,Analyst_2785255,0.21
+609,HIBB,Buck_106696,0.07
+610,HIBB,Analyst_8626722,0.23
+611,HIBB,Analyst_9726995,0.26
+612,HIBB,Analyst_4516057,0.32
+613,HIBB,eteodorescu,0.35
+614,BKE,Bill,0.49
+615,BKE,Proximilar AI,0.49
+616,BKE,aaaa7777,0.48
+617,BKE,Analyst_5332121,0.48
+618,BKE,Sentinel,0.48
+619,BKE,Frederick Tremblay,0.48
+620,URBN,Dana Telsey,0.70
+621,URBN,Mehrwert,0.70
+622,URBN,Analyst_Lemvigh,0.68
+623,URBN,Abbas Mashaollah,0.68
+624,URBN,Mark Connollly,0.68
+625,URBN,Giuseppe Calì,0.68
+626,URBN,JJM,0.72
+627,URBN,Bill,0.67
+628,URBN,Analyst_2287698,0.67
+629,URBN,Analyst_1487257,0.67
+630,URBN,KDRODU220,0.73
+631,URBN,rsreina,0.66
+632,URBN,androsForm,0.66
+633,URBN,Frederick Tremblay,0.65
+634,URBN,Analyst_9166593,0.65
+635,URBN,Fernando Aldana,0.65
+636,URBN,Zach Mazzeo,0.65
+637,URBN,Pamela Quintiliano,0.64
+638,URBN,Janine Stichter,0.64
+639,URBN,Analyst_1495581,0.64
+640,URBN,Analyst_8290811,0.64
+641,URBN,Bob S.,0.63
+642,URBN,Raz RABI,0.61
+643,URBN,Randal Konik,0.60
+644,URBN,Buck_861640,0.52
+645,URBN,Analyst_9639807,0.90
+646,URBN,Analyst_879688,0.41
+647,URBN,Buck_142278,0.40
+648,BBY,Joseph Feldman,0.94
+649,BBY,"Daniel Binder, CFA",0.92
+650,BBY,Mehrwert,0.92
+651,BBY,Bill_Maurer,0.92
+652,BBY,2XS,0.95
+653,BBY,Frederick Tremblay,0.91
+654,BBY,Bill,0.91
+655,BBY,Mark Connollly,0.91
+656,BBY,Analyst_3980014,0.91
+657,BBY,GregTripple,0.90
+658,BBY,Analyst_2693180,0.90
+659,BBY,Analyst_9166593,0.90
+660,BBY,Zach Mazzeo,0.90
+661,BBY,anishjv11,0.97
+662,BBY,WeAreLions,0.97
+663,BBY,gpoubel,0.97
+664,BBY,Wx_Torn,0.89
+665,BBY,Huzefa,0.89
+666,BBY,Analyst_2287698,0.89
+667,BBY,Philip Mascherino,0.89
+668,BBY,Diogo Oliveira,0.98
+669,BBY,Analyst_1487257,0.98
+670,BBY,Analyst_5184679,0.88
+671,BBY,JCL_Test,0.88
+672,BBY,Tyler Davis,0.88
+673,BBY,JJM,0.88
+674,BBY,osodeoro,0.87
+675,BBY,serp,0.87
+676,BBY,PCLA,0.87
+677,BBY,Fernando Aldana,0.87
+678,BBY,UcanQuote_me,0.87
+679,BBY,eptest,1.00
+680,BBY,Endrike,1.00
+681,BBY,Analyst_1468046,0.86
+682,BBY,StormOfHeros,0.86
+683,BBY,Analyst_1237625,0.86
+684,BBY,Analyst_236584,0.86
+685,BBY,androsForm,0.86
+686,BBY,Analyst_4782037,0.85
+687,BBY,Bob S.,0.85
+688,BBY,"Jonathan Matuszewski, CFA",0.84
+689,DKS,Camilo Lyon,0.46
+690,DKS,Proximilar AI,0.43
+691,DKS,defjam,0.42
+692,DKS,cedricyau,0.42
+693,DKS,Scott Hendricks,0.41
+694,DKS,Analyst_2278908,0.41
+695,DKS,u94_llamoure,0.41
+696,DKS,dalton,0.41
+697,DKS,Richard Wickstrom,0.41
+698,DKS,Zilvinas Speteliunas,0.41
+699,DKS,jfffrmm,0.40
+700,DKS,Fernando Aldana,0.40
+701,DKS,Ram,0.40
+702,DKS,kerry burrell,0.40
+703,DKS,Bill,0.40
+704,DKS,AAFED,0.40
+705,DKS,Rob Ford,0.40
+706,DKS,panda_w,0.40
+707,DKS,PM,0.40
+708,DKS,elkmohawk,0.39
+709,DKS,Analyst_908965,0.39
+710,DKS,Frederick Tremblay,0.39
+711,DKS,Camilo Lyon,0.38
+712,DKS,Analyst_5795851,0.38
+713,DKS,Analyst_8075381,0.38
+714,DKS,Sentinel,0.38
+715,DKS,Analyst_5597176,0.38
+716,DKS,Analyst_2206610,0.38
+717,DKS,Buck_106696,0.37
+718,DKS,larrylai,0.37
+719,DKS,Joseph Feldman,0.36
+720,DKS,"Brian Nagel, CFA",0.36
+721,DKS,Analyst_9166593,0.36
+722,DKS,hyperionives,0.35
+723,ANF,Analyst_2206610,0.23
+724,ANF,cedricyau,0.23
+725,ANF,Analyst_6737209,0.25
+726,ANF,Dana Telsey,0.21
+727,ANF,Sentinel,0.26
+728,ANF,defjam,0.20
+729,ANF,Frederick Tremblay,0.26
+730,ANF,Rick Weinhart,0.29
+731,ANF,Analyst_7077679,0.17
+732,ANF,Analyst_5794225,0.30
+733,ANF,Proximilar AI,0.30
+734,ANF,Analyst_4716043,0.16
+735,ANF,Analyst_9982794,0.31
+736,ANF,Bill,0.32
+737,ANF,Janine Stichter,0.33
+738,ANF,Kulo,0.34
+739,ANF,Scott Hendricks,0.35
+740,ANF,Analyst_828799,0.36
+741,ANF,RIMEsfo,0.05
+742,ANF,Analyst_8835419,-0.33
+743,TIF,Rick Patel,0.77
+744,TIF,Randal Konik,0.77
+745,TIF,"Brian Nagel, CFA",0.80
+746,TIF,Dana Telsey,0.84
+747,TIF,gcreddy,0.84
+748,TIF,Analyst_3504837,0.85
+749,TIF,d_strizhi,0.87
+750,TIF,Sentinel,0.87
+751,TIF,Bill,0.87
+752,TIF,Malette,0.88
+753,TIF,dmitriyb,0.89
+754,TIF,Analyst_2057632,0.89
+755,TIF,Analyst_6348688,0.89
+756,TIF,GregTripple,0.90
+757,TIF,Proximilar AI,0.91
+758,TIF,Bill Dreher,0.92
+759,TIF,eaojnr,1.00
+760,CHS,Sentinel,-0.05
+761,CHS,Bill,-0.05
+762,CHS,Frederick Tremblay,-0.05
+763,CHS,Proximilar AI,-0.06
+764,CHS,Dana Telsey,-0.08
+765,CHS,Janine Stichter,0.05
+766,CHS,Randal Konik,0.11
+767,GPS,Analyst_5626606,0.53
+768,GPS,Bill,0.53
+769,GPS,Analyst_5174576,0.53
+770,GPS,Proximilar AI,0.53
+771,GPS,Tavrand,0.53
+772,GPS,Dana Telsey,0.52
+773,GPS,Scott Hendricks,0.54
+774,GPS,Sentinel,0.52
+775,GPS,kerry burrell,0.52
+776,GPS,Sam0808,0.54
+777,GPS,Vitaly,0.54
+778,GPS,Analyst_1844295,0.55
+779,GPS,Bob S.,0.51
+780,GPS,Frederick Tremblay,0.56
+781,GPS,Analyst_1949580,0.50
+782,GPS,Analyst_7141644,0.62
+783,GPS,kyleevanmurphy,0.66
+784,GPS,Randal Konik,0.69
+785,GPS,Rick Weinhart,0.36
+786,GPS,Analyst_3388435,0.73

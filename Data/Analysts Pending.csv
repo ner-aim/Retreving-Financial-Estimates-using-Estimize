@@ -1,0 +1,462 @@
+,Analyst,Ticker,Reports,Published Data,EPS,Revenue
+0,rsreina,C,"Jan 14, 2022 BMO","Nov 25, 2021",1.88,"17,250"
+1,rsreina,ASML,"Jan 19, 2022 BMO","Dec 7, 2021",4.41,"5,995"
+2,rsreina,STLD,"Jan 24, 2022 AMC","Dec 8, 2021",5.61,"5,350"
+3,rsreina,IBM,"Jan 24, 2022 AMC","Dec 7, 2021",3.46,"18,450"
+4,rsreina,ABT,"Jan 26, 2022 BMO","Dec 5, 2021",1.38,"10,750"
+5,rsreina,VRTX,"Feb 2, 2022 AMC","Dec 8, 2021",3.32,"2,010"
+6,rsreina,QCOM,"Feb 2, 2022 AMC","Dec 7, 2021",3.10,"10,550"
+7,rsreina,FNF,"Feb 2, 2022 AMC","Dec 7, 2021",1.66,"3,300"
+8,rsreina,MRK,"Feb 3, 2022 BMO","Dec 5, 2021",1.60,"13,300"
+9,rsreina,CI,"Feb 3, 2022 BMO","Dec 5, 2021",4.73,"44,000"
+10,rsreina,DD,"Feb 3, 2022 BMO","Dec 5, 2021",0.98,"4,000"
+11,rsreina,AMZN,"Feb 3, 2022 AMC","Dec 7, 2021",3.82,"138,000"
+12,rsreina,AQUA,"Feb 8, 2022 BMO","Dec 1, 2021",0.11,360.00
+13,rsreina,FISV,"Feb 9, 2022 BMO","Dec 5, 2021",1.58,"4,075"
+14,rsreina,SONO,"Feb 9, 2022 AMC","Dec 5, 2021",0.92,655.00
+15,rsreina,ATVI,"Feb 10, 2022 AMC","Dec 7, 2021",1.38,"2,855"
+16,rsreina,TWTR,"Feb 10, 2022 AMC","Dec 6, 2021",0.36,"1,600"
+17,rsreina,ED,"Feb 17, 2022 AMC","Dec 8, 2021",0.85,"2,800"
+18,rsreina,THRM,"Feb 22, 2022 BMO","Nov 29, 2021",0.38,240.00
+19,rsreina,AWK,"Feb 22, 2022 AMC","Dec 5, 2021",0.85,940.00
+20,rsreina,NEM,"Feb 24, 2022 BMO","Dec 8, 2021",0.77,"3,350"
+21,robert brand,CIEN,"Dec 9, 2021 BMO","Dec 8, 2021",0.96,"1,050"
+22,robert brand,AVGO,"Dec 9, 2021 AMC","Dec 8, 2021",7.84,"7,388"
+23,robert brand,COST,"Dec 9, 2021 AMC","Dec 8, 2021",2.78,"51,000"
+24,robert brand,LULU,"Dec 9, 2021 AMC","Dec 8, 2021",1.58,"1,490"
+25,robert brand,MGA,"Feb 25, 2022 BMO","Nov 5, 2021",1.20,"9,600"
+26,BR604079,TTC,"Dec 15, 2021 BMO","Sep 24, 2021 75 days ago",0.52,957.10
+27,BR604079,WGO,"Dec 17, 2021 BMO","Oct 27, 2021",2.40,"1,046"
+28,BR604079,HZO,"Jan 26, 2022 BMO","Oct 27, 2021",1.20,445.10
+29,BR604079,BC,"Jan 27, 2022 BMO","Oct 22, 2021 47 days ago",1.30,
+30,BR604079,HOG,"Feb 1, 2022 BMO","Oct 28, 2021 41 days ago",-0.27,722.10
+31,BR604079,PII,"Feb 1, 2022 BMO","Oct 27, 2021 42 days ago",2.02,"2,359"
+32,BR604079,TTC,"Feb 24, 2022 BMO","Sep 24, 2021 75 days ago",0.80,"1,056"
+33,BR604079,THO,"Mar 7, 2022 BMO","Oct 4, 2021 66 days ago",2.90,"3,387"
+34,BR604079,CWH,"Mar 10, 2022 AMC","Nov 4, 2021",0.81,"1,258"
+35,BR604079,WGO,"Mar 23, 2022 BMO","Oct 27, 2021",2.40,"1,092"
+36,BR604079,HZO,"Apr 28, 2022 BMO","Oct 27, 2021",1.75,524.60
+37,BR604079,TTC,"May 26, 2022 BMO","Sep 24, 2021 75 days ago",1.25,"1,391"
+38,BR604079,THO,"Jun 6, 2022 BMO","Oct 4, 2021 66 days ago",3.45,"3,864"
+39,BR604079,WGO,"Jun 22, 2022 BMO","Oct 27, 2021",2.50,"1,098"
+40,BR604079,HZO,"Jul 28, 2022 BMO","Oct 27, 2021",3.00,746.60
+41,BR604079,TTC,"Aug 25, 2022 BMO","Sep 24, 2021 75 days ago",1.05,"1,074"
+42,BR604079,THO,"Sep 27, 2022 BMO","Oct 4, 2021 66 days ago",3.50,"3,870"
+43,BR604079,WGO,"Oct 19, 2022 BMO","Oct 27, 2021",2.50,"1,112"
+44,BR604079,HZO,"Nov 1, 2022 BMO","Oct 27, 2021",1.45,531.40
+45,BR604079,TTC,"Dec 8, 2022 BMO","Sep 24, 2021 75 days ago",0.60,"1,003"
+46,NR802552,SYK,"Jan 25, 2022 AMC","Mar 5, 2020 643 days ago",3.04,"4,741"
+47,NR802552,ZBH,"Feb 1, 2022 BMO","Mar 5, 2020 643 days ago",2.57,"2,255"
+48,NR802552,ALGN,"Feb 3, 2022 AMC","Mar 5, 2020 643 days ago",2.72,
+49,NR802552,ITGR,"Feb 24, 2022 BMO","Mar 5, 2020 643 days ago",1.51,348.10
+50,CC505328,ACI,"Jan 18, 2022 BMO","Oct 21, 2021 48 days ago",0.55,
+51,CC505328,TSCO,"Feb 2, 2022 BMO","Oct 27, 2021",1.77,
+52,CC505328,SPTN,"Feb 23, 2022 AMC","Nov 15, 2021",0.30,
+53,CC505328,SFM,"Feb 24, 2022 AMC","Dec 2, 2021",0.29,
+54,CC505328,KR,"Mar 3, 2022 BMO","Sep 15, 2021 84 days ago",0.67,
+55,CC505328,CASY,"Mar 7, 2022 AMC","Sep 14, 2021 85 days ago",1.44,
+56,CC505328,UNFI,"Mar 9, 2022 BMO","Oct 5, 2021 64 days ago",1.14,
+57,CC505328,BJ,"Mar 10, 2022 BMO","Nov 22, 2021",0.66,
+58,CC505328,ACI,"Apr 26, 2022 BMO","Oct 21, 2021 48 days ago",0.51,
+59,CC505328,CASY,"Jun 6, 2022 AMC","Sep 14, 2021 85 days ago",1.34,
+60,CC505328,UNFI,"Jun 8, 2022 BMO","Oct 5, 2021 64 days ago",1.13,
+61,CC505328,UNFI,"Sep 13, 2022 BMO","Oct 5, 2021 64 days ago",1.21,
+62,Buck_446488,SFM,"Feb 24, 2022 AMC","Mar 3, 2020 645 days ago",0.23,"1,613"
+63,Analyst_5841627,NOW,"Jan 26, 2022 AMC","Nov 18, 2021",1.45,"1,605"
+64,Analyst_5841627,NOW,"Apr 27, 2022 AMC","Nov 18, 2021",1.73,"1,713"
+65,Analyst_5841627,NOW,"Jul 27, 2022 AMC","Nov 18, 2021",1.72,"1,772"
+66,Analyst_5841627,NOW,"Oct 26, 2022 AMC","Nov 18, 2021",1.90,"1,893"
+67,Analyst_7227115,AAPL,"Feb 1, 2022 AMC","Aug 5, 2021 125 days ago",1.84,"118,963"
+68,Analyst_7227115,BABA,"Feb 2, 2022 BMO","May 7, 2021 215 days ago",3.93,"44,500"
+69,Analyst_7227115,VRTX,"Feb 2, 2022 AMC","Jul 30, 2021 132 days ago",3.60,"1,900"
+70,Analyst_7227115,AOSL,"Feb 9, 2022 AMC","Jul 30, 2021 132 days ago",0.82,174.70
+71,Analyst_7227115,KGC,"Feb 9, 2022 AMC","Aug 2, 2021 128 days ago",0.30,"1,250"
+72,Analyst_7227115,PLTR,"Feb 15, 2022 BMO","Aug 2, 2021 128 days ago",0.07,423.00
+73,Analyst_7227115,AEM,"Feb 16, 2022 AMC","Jul 30, 2021 132 days ago",0.90,"1,100"
+74,Analyst_7227115,BRK-B,"Feb 21, 2022 BMO","Aug 2, 2021 128 days ago",3.35,"70,844"
+75,Analyst_7227115,FSM,"Mar 10, 2022 BMO","Jul 30, 2021 132 days ago",0.20,210.00
+76,Analyst_7227115,AG,"Mar 17, 2022 BMO","Aug 18, 2021 112 days ago",0.14,115.00
+77,Analyst_7227115,VRTX,"Apr 28, 2022 AMC","Jul 30, 2021 132 days ago",3.70,"1,950"
+78,Analyst_7227115,AEM,"Apr 28, 2022 AMC","Jul 30, 2021 132 days ago",1.00,"1,100"
+79,Analyst_7227115,BRK-B,"May 2, 2022 BMO","Aug 2, 2021 128 days ago",3.05,"69,271"
+80,Analyst_7227115,AAPL,"May 3, 2022 AMC","Aug 5, 2021 125 days ago",1.33,"89,000"
+81,Analyst_7227115,AOSL,"May 4, 2022 AMC","Jul 30, 2021 132 days ago",0.84,176.77
+82,Analyst_7227115,AG,"May 5, 2022 AMC","Aug 18, 2021 112 days ago",0.19,120.00
+83,Analyst_7227115,FSM,"May 9, 2022 BMO","Jul 30, 2021 132 days ago",0.19,185.00
+84,Analyst_7227115,PLTR,"May 10, 2022 BMO","Aug 2, 2021 128 days ago",0.08,435.00
+85,Analyst_7227115,KGC,"May 10, 2022 AMC","Aug 2, 2021 128 days ago",0.24,"1,300"
+86,Medic2525,ARMK,"Feb 8, 2022 BMO","May 11, 2021 212 days ago",0.44,"3,754"
+87,Medic2525,WMB,"Feb 16, 2022 AMC","Aug 2, 2021 129 days ago",0.33,"2,465"
+88,Analyst_6143517,SNAP,"Feb 8, 2022 AMC","Oct 23, 2021 47 days ago",0.10,"1,236"
+89,Analyst_6143517,VRM,"Mar 2, 2022 AMC","Nov 9, 2021",-0.61,888.30
+90,Analyst_6143517,ZM,"Mar 9, 2022 AMC","Aug 30, 2021 100 days ago",1.18,"1,048"
+91,Analyst_6143517,ZM,"Jun 8, 2022 AMC","Aug 30, 2021 100 days ago",1.21,"1,100"
+92,Analyst_883247,LULU,"Dec 9, 2021 AMC","Dec 6, 2021",1.56,"1,480"
+93,Analyst_883247,NKE,"Dec 20, 2021 AMC","Oct 13, 2021 57 days ago",0.75,"11,885"
+94,Analyst_883247,ERIC,"Jan 25, 2022 BMO","Dec 2, 2021",0.27,"7,846"
+95,Analyst_883247,FCX,"Jan 27, 2022 BMO","Oct 26, 2021",0.88,"6,395"
+96,Analyst_883247,F,"Jan 27, 2022 AMC","Nov 22, 2021",0.41,"42,666"
+97,Analyst_883247,SBH,"Feb 3, 2022 BMO","Nov 17, 2021",0.62,998.22
+98,Analyst_883247,ODFL,"Feb 3, 2022 BMO","Oct 31, 2021",2.26,"1,374"
+99,Analyst_883247,SNAP,"Feb 8, 2022 AMC","Oct 31, 2021",0.13,"1,265"
+100,Analyst_883247,AOSL,"Feb 9, 2022 AMC","Nov 6, 2021",1.06,188.20
+101,Analyst_883247,SYNA,"Feb 10, 2022 AMC","Nov 6, 2021",3.07,404.71
+102,Analyst_883247,UAA,"Feb 15, 2022 BMO","Nov 6, 2021",0.15,"1,475"
+103,Analyst_883247,WIRE,"Feb 17, 2022 AMC","Nov 2, 2021",3.17,563.79
+104,Analyst_883247,HFC,"Feb 23, 2022 BMO","Nov 18, 2021",0.62,"4,349"
+105,Analyst_883247,OSTK,"Mar 18, 2022 BMO","Oct 30, 2021",0.50,688.95
+106,Rick Patel,LULU,"Dec 9, 2021 AMC","Dec 11, 2020 362 days ago",1.16,
+107,Rick Patel,NKE,"Dec 20, 2021 AMC","Dec 21, 2020 352 days ago",1.12,
+108,Rick Patel,RL,"Feb 3, 2022 BMO","Feb 5, 2021 306 days ago",2.51,
+109,Rick Patel,CPRI,"Feb 9, 2022 BMO","Feb 4, 2021 307 days ago",1.55,
+110,Rick Patel,TPR,"Feb 10, 2022 BMO","Feb 5, 2021 306 days ago",1.23,
+111,Rick Patel,COLM,"Feb 10, 2022 AMC","Feb 5, 2021 306 days ago",1.77,
+112,Rick Patel,UAA,"Feb 15, 2022 BMO","Feb 11, 2021 300 days ago",0.12,
+113,Rick Patel,DBI,"Mar 15, 2022 BMO","Sep 4, 2020 460 days ago",-0.81,
+114,Rick Patel,CAL,"Mar 15, 2022 AMC","Sep 2, 2020 462 days ago",0.00,
+115,Rick Patel,NKE,"Mar 22, 2022 AMC","Sep 23, 2020 441 days ago",0.89,
+116,Rick Patel,GIII,"Mar 24, 2022 BMO","Sep 9, 2020 455 days ago",0.59,
+117,Rick Patel,OXM,"Mar 24, 2022 AMC","Sep 4, 2020 460 days ago",0.06,
+118,Rick Patel,LULU,"Mar 30, 2022 AMC","Dec 11, 2020 362 days ago",2.47,
+119,Rick Patel,COLM,"Apr 28, 2022 AMC","Feb 5, 2021 306 days ago",0.19,
+120,Rick Patel,TPR,"May 3, 2022 BMO","Feb 5, 2021 306 days ago",0.30,
+121,Rick Patel,UAA,"May 3, 2022 BMO","Feb 11, 2021 300 days ago",0.06,
+122,Rick Patel,RL,"May 19, 2022 BMO","Feb 5, 2021 306 days ago",0.15,
+123,Rick Patel,DBI,"May 24, 2022 AMC","Sep 4, 2020 460 days ago",0.32,
+124,Rick Patel,CAL,"May 26, 2022 BMO","Sep 2, 2020 462 days ago",0.21,
+125,Rick Patel,CPRI,"Jun 1, 2022 BMO","Feb 4, 2021 307 days ago",0.53,
+126,Rick Patel,LULU,"Jun 2, 2022 AMC","Dec 11, 2020 362 days ago",0.69,
+127,Rick Patel,OXM,"Jun 7, 2022 AMC","Sep 4, 2020 460 days ago",1.12,
+128,Rick Patel,NKE,"Jun 30, 2022 AMC","Dec 21, 2020 352 days ago",0.53,
+129,Rick Patel,COLM,"Jul 28, 2022 AMC","Feb 5, 2021 306 days ago",0.09,
+130,Rick Patel,UAA,"Aug 2, 2022 BMO","Feb 11, 2021 300 days ago",0.02,
+131,dsadhvani,LULU,"Dec 9, 2021 AMC","Dec 2, 2021",1.42,"1,433"
+132,Analyst_703153,COST,"Dec 9, 2021 AMC","Sep 23, 2021 76 days ago",2.70,"47,005"
+133,Darren Aftahi,APPS,"Feb 8, 2022 AMC","Nov 3, 2021",0.43,352.90
+134,Darren Aftahi,SHOP,"Feb 16, 2022 BMO","Oct 28, 2021",1.36,"1,287"
+135,Darren Aftahi,MCHX,"Feb 17, 2022 AMC","Nov 10, 2021",-0.02,12.81
+136,Darren Aftahi,ALRM,"Mar 1, 2022 AMC","Nov 5, 2021",0.31,178.60
+137,Darren Aftahi,ETSY,"Mar 1, 2022 AMC","Nov 4, 2021",0.71,681.91
+138,Darren Aftahi,SHOP,"May 3, 2022 BMO","Oct 28, 2021",1.23,"1,201"
+139,Darren Aftahi,ETSY,"May 3, 2022 AMC","Nov 4, 2021",0.62,586.05
+140,Darren Aftahi,MCHX,"May 5, 2022 AMC","Aug 6, 2021 125 days ago",-0.02,13.50
+141,Darren Aftahi,ALRM,"May 10, 2022 AMC","Nov 5, 2021",0.48,188.10
+142,Darren Aftahi,APPS,"Jun 14, 2022 AMC","Nov 3, 2021",0.37,328.20
+143,Darren Aftahi,SHOP,"Aug 3, 2022 BMO","Oct 28, 2021",1.71,"1,366"
+144,Darren Aftahi,MCHX,"Aug 3, 2022 AMC","Nov 10, 2021",-0.01,14.29
+145,Darren Aftahi,ETSY,"Aug 4, 2022 AMC","Nov 4, 2021",0.66,620.89
+146,Darren Aftahi,APPS,"Aug 8, 2022 AMC","Nov 3, 2021",0.39,352.20
+147,Darren Aftahi,ALRM,"Aug 9, 2022 AMC","Nov 5, 2021 34 days ago",0.47,201.98
+148,Darren Aftahi,SHOP,"Nov 1, 2022 BMO","Oct 28, 2021",1.62,"1,373"
+149,Darren Aftahi,ETSY,"Nov 2, 2022 AMC","Nov 4, 2021",0.68,635.77
+150,Darren Aftahi,APPS,"Nov 7, 2022 AMC","Nov 3, 2021",0.48,396.00
+151,Darren Aftahi,ALRM,"Nov 9, 2022 AMC","Nov 5, 2021",0.53,206.40
+152,Darren Aftahi,MCHX,"Nov 9, 2022 AMC","Nov 10, 2021",0.00,14.65
+153,Darren Aftahi,APPS,"Feb 7, 2023 AMC","Nov 3, 2021",0.58,441.50
+154,Darren Aftahi,SHOP,"Feb 15, 2023 BMO","Oct 28, 2021",2.40,"1,676"
+155,Darren Aftahi,MCHX,"Feb 16, 2023 AMC","Nov 10, 2021 29 days ago",0.00,13.77
+156,Darren Aftahi,ALRM,"Feb 28, 2023 AMC","Nov 5, 2021",0.55,197.49
+157,Darren Aftahi,ETSY,"Feb 28, 2023 AMC","Nov 4, 2021",1.11,787.39
+158,Jagator904,LULU,"Dec 9, 2021 AMC","Nov 28, 2021",1.65,"1,531"
+159,Jagator904,EDU,"Dec 13, 2021 BMO","Dec 5, 2021",0.01,"1,138"
+160,Jagator904,TCOM,"Dec 15, 2021 AMC","Nov 22, 2021",0.18,996.00
+161,Jagator904,ADBE,"Dec 16, 2021 AMC","Nov 28, 2021",3.33,"4,132"
+162,Jagator904,WGO,"Dec 17, 2021 BMO","Nov 21, 2021",2.60,"1,085"
+163,Jagator904,MCD,"Jan 24, 2022 BMO","Nov 21, 2021",2.50,"6,154"
+164,Jagator904,HD,"Feb 22, 2022 BMO","Nov 16, 2021",3.41,"34,500"
+165,Jagator904,DKNG,"Feb 25, 2022 BMO","Nov 5, 2021",-0.63,425.90
+166,Jagator904,HIBB,"Mar 11, 2022 BMO","Aug 27, 2021 103 days ago",1.44,378.49
+167,JH839712,CTAS,"Dec 22, 2021 BMO","Oct 4, 2021 66 days ago",2.63,
+168,JH839712,KMX,"Dec 22, 2021 BMO","Nov 22, 2021",1.07,
+169,JH839712,UNF,"Jan 5, 2022 BMO","Oct 21, 2021 48 days ago",1.83,
+170,JH839712,URI,"Jan 26, 2022 AMC","Oct 29, 2021",6.28,
+171,JH839712,MAN,"Feb 1, 2022 BMO","Oct 20, 2021 49 days ago",2.00,
+172,JH839712,RHI,"Feb 1, 2022 AMC","Oct 22, 2021 47 days ago",1.44,
+173,JH839712,MNRO,"Feb 3, 2022 BMO","Oct 28, 2021",0.53,346.60
+174,JH839712,KELYA,"Feb 3, 2022 BMO","Nov 11, 2021",0.16,
+175,JH839712,AN,"Feb 4, 2022 BMO","Oct 22, 2021 47 days ago",4.60,
+176,JH839712,GT,"Feb 8, 2022 BMO","Nov 8, 2021",0.62,
+177,JH839712,KFRC,"Feb 8, 2022 AMC","Nov 2, 2021",0.99,
+178,JH839712,UBER,"Feb 9, 2022 AMC","Nov 8, 2021",-0.30,
+179,JH839712,TBI,"Feb 9, 2022 AMC","Oct 26, 2021",0.34,
+180,JH839712,PAG,"Feb 10, 2022 BMO","Oct 28, 2021",3.42,
+181,JH839712,WWE,"Feb 10, 2022 AMC","Nov 8, 2021",0.43,
+182,JH839712,LYFT,"Feb 15, 2022 AMC","Nov 5, 2021 33 days ago",-0.45,"1,050"
+183,JH839712,KAR,"Feb 22, 2022 AMC","Nov 4, 2021",0.06,
+184,JH839712,CPRT,"Feb 22, 2022 AMC","Nov 15, 2021",1.10,
+185,JH839712,CAR,"Feb 23, 2022 AMC","Nov 3, 2021",3.50,
+186,JH839712,LKQ,"Feb 24, 2022 BMO","Oct 29, 2021",0.76,
+187,JH839712,LYV,"Feb 24, 2022 AMC","Nov 5, 2021",-0.67,
+188,JH839712,RBA,"Feb 24, 2022 AMC","Nov 8, 2021",0.53,
+189,JH839712,IAA,"Mar 23, 2022 BMO","Nov 4, 2021",0.64,
+190,JH839712,CTAS,"Mar 24, 2022 BMO","Oct 4, 2021 66 days ago",2.39,
+191,JH839712,UNF,"Mar 30, 2022 BMO","Oct 21, 2021 48 days ago",1.73,
+192,TV447703,FLWS,"Feb 3, 2022 BMO","Nov 4, 2021 34 days ago",1.89,965.90
+193,TV447703,ORLY,"Feb 9, 2022 AMC","Aug 16, 2021 114 days ago",5.91,"2,970"
+194,TV447703,AAN,"Feb 22, 2022 BMO","Oct 28, 2021",0.40,431.40
+195,TV447703,AAP,"Feb 22, 2022 AMC","Jul 13, 2021 148 days ago",2.10,"2,297"
+196,TV447703,RCII,"Feb 23, 2022 AMC","Nov 16, 2021 22 days ago",1.61,"1,189"
+197,TV447703,AZO,"Mar 1, 2022 BMO","Jun 21, 2021 170 days ago",15.47,"2,865"
+198,TV447703,ROST,"Mar 1, 2022 AMC","May 19, 2021 203 days ago",0.57,"4,250"
+199,TV447703,TJX,"Mar 2, 2022 BMO","Dec 8, 2021",0.93,"14,397"
+200,TV447703,SIG,"Mar 17, 2022 BMO","Dec 3, 2021 5 days ago",3.90,"2,089"
+201,TV447703,AAN,"Apr 26, 2022 BMO","Oct 28, 2021",0.90,480.20
+202,TV447703,ORLY,"Apr 27, 2022 AMC","Aug 16, 2021 114 days ago",6.52,"2,991"
+203,TV447703,RCII,"May 2, 2022 AMC","Nov 16, 2021 22 days ago",1.53,"1,281"
+204,TV447703,FLWS,"May 3, 2022 BMO","Nov 4, 2021 34 days ago",0.00,525.10
+205,TV447703,TJX,"May 17, 2022 BMO","Dec 8, 2021",0.62,"11,317"
+206,TV447703,ROST,"May 19, 2022 AMC","May 24, 2021 198 days ago",1.34,"4,516"
+207,TV447703,AZO,"May 24, 2022 BMO","Aug 16, 2021 114 days ago",23.35,"3,349"
+208,TV447703,AAP,"May 25, 2022 BMO","Jun 21, 2021 170 days ago",3.31,"3,237"
+209,TV447703,AAN,"Jul 26, 2022 BMO","Oct 28, 2021",0.85,461.70
+210,TV447703,ORLY,"Jul 27, 2022 AMC","Aug 16, 2021 114 days ago",8.13,"3,470"
+211,TV447703,RCII,"Jul 27, 2022 AMC","Nov 16, 2021 22 days ago",1.93,"1,241"
+212,TV447703,TJX,"Aug 16, 2022 BMO","Dec 8, 2021",0.82,"12,614"
+213,TV447703,AAP,"Aug 16, 2022 BMO","Jul 13, 2021 148 days ago",3.54,"2,617"
+214,TV447703,ROST,"Aug 18, 2022 AMC","Aug 23, 2021 107 days ago",1.39,"4,805"
+215,TV447703,FLWS,"Aug 25, 2022 BMO","Nov 4, 2021 34 days ago",0.22,512.60
+216,TV447703,AZO,"Sep 20, 2022 BMO","Aug 16, 2021 114 days ago",33.64,"4,801"
+217,Analyst_5039344,ADBE,"Dec 16, 2021 AMC","Dec 4, 2021",3.23,"4,093"
+218,kerry burrell,AVGO,"Dec 9, 2021 AMC","Dec 6, 2021",7.82,"7,413"
+219,kerry burrell,COST,"Dec 9, 2021 AMC","Dec 6, 2021",2.70,"54,303"
+220,kerry burrell,LULU,"Dec 9, 2021 AMC","Dec 6, 2021",1.54,"1,448"
+221,kerry burrell,JILL,"Dec 13, 2021 AMC","Dec 8, 2021",0.35,151.33
+222,kerry burrell,MU,"Dec 20, 2021 AMC","Nov 6, 2021",2.12,"7,694"
+223,Analyst_6356544,UNH,"Jan 18, 2022 BMO","Oct 14, 2021 55 days ago",4.50,"71,539"
+224,bdarbe11,FTCH,"Mar 3, 2022 AMC","Nov 18, 2021",-0.17,714.29
+225,Analyst_1390165,ADBE,"Dec 16, 2021 AMC","Dec 7, 2021",3.30,"4,113"
+226,Stephanie Benjamin,LSTR,"Jan 26, 2022 AMC","Jul 23, 2020 503 days ago",1.36,"1,001"
+227,Stephanie Benjamin,SAIA,"Feb 4, 2022 BMO","Jul 29, 2020 497 days ago",137.00,493.00
+228,Stephanie Benjamin,AN,"Feb 4, 2022 BMO","Jul 23, 2020 503 days ago",1.60,"5,567"
+229,Stephanie Benjamin,ABG,"Feb 8, 2022 BMO","Jul 28, 2020 498 days ago",3.62,"2,259"
+230,Stephanie Benjamin,PAG,"Feb 10, 2022 BMO","Jul 29, 2020 497 days ago",1.56,"5,889"
+231,Stephanie Benjamin,KAR,"Feb 22, 2022 AMC","May 7, 2020 580 days ago",,657.00
+232,Stephanie Benjamin,XPO,"Feb 23, 2022 AMC","Jul 31, 2020 495 days ago",,"4,301"
+233,Stephanie Benjamin,LKQ,"Feb 24, 2022 BMO","Jul 30, 2020 496 days ago",0.62,"3,013"
+234,francescozunino,TWTR,"Feb 10, 2022 AMC","Nov 24, 2021",0.38,"1,688"
+235,Analyst_5498960,COST,"Dec 9, 2021 AMC","Dec 2, 2021",2.71,"54,000"
+236,Analyst_5498960,DECK,"Feb 3, 2022 AMC","Oct 28, 2021",9.00,"1,201"
+237,Analyst_5498960,WMT,"Feb 17, 2022 BMO","Nov 15, 2021",1.60,"150,174"
+238,Analyst_5498960,HD,"Feb 22, 2022 BMO","Nov 15, 2021",2.97,"32,985"
+239,Analyst_5498960,KR,"Mar 3, 2022 BMO","Dec 2, 2021",0.75,"32,131"
+240,Analyst_5498960,TGT,"Mar 8, 2022 BMO","Nov 16, 2021",2.85,"30,508"
+241,Analyst_5498960,SIG,"Mar 17, 2022 BMO","Dec 2, 2021",4.50,"2,300"
+242,Analyst_5498960,LE,"Mar 22, 2022 BMO","Dec 2, 2021",0.65,600.91
+243,Analyst_5498960,DECK,"May 26, 2022 AMC","Oct 28, 2021",1.00,603.31
+244,Bill,HRL,"Dec 9, 2021 BMO","Dec 5, 2021",0.51,"3,237"
+245,Bill,FIZZ,"Dec 9, 2021 BMO","Dec 5, 2021",0.52,291.52
+246,Bill,HOV,"Dec 9, 2021 BMO","Dec 8, 2021",9.05,711.00
+247,Bill,LQDT,"Dec 9, 2021 BMO","Dec 5, 2021",0.26,61.98
+248,Bill,CIEN,"Dec 9, 2021 BMO","Dec 5, 2021",0.87,"1,032"
+249,Bill,CMTL,"Dec 9, 2021 AMC","Dec 5, 2021",-0.12,119.54
+250,Bill,CHWY,"Dec 9, 2021 AMC","Dec 5, 2021",-0.02,"2,249"
+251,Bill,MTN,"Dec 9, 2021 AMC","Dec 5, 2021",-3.41,220.51
+252,Bill,AVGO,"Dec 9, 2021 AMC","Dec 5, 2021",7.76,"7,375"
+253,Bill,COST,"Dec 9, 2021 AMC","Dec 5, 2021",2.79,"54,800"
+254,Bill,ORCL,"Dec 9, 2021 AMC","Dec 5, 2021",1.15,"10,278"
+255,Bill,LULU,"Dec 9, 2021 AMC","Dec 5, 2021",1.62,"1,480"
+256,Bill,MESA,"Dec 9, 2021 AMC","Dec 5, 2021",0.14,147.95
+257,Bill,PFSW,"Dec 10, 2021 BMO","Nov 7, 2021",0.06,83.65
+258,Bill,JOUT,"Dec 10, 2021 BMO","Dec 5, 2021",0.81,172.83
+259,Bill,GRUB,"Dec 10, 2021 AMC","Oct 25, 2021",-0.12,577.67
+260,Bill,EDU,"Dec 13, 2021 BMO","Oct 24, 2021 45 days ago",0.05,"1,223"
+261,Bill,TAL,"Dec 13, 2021 BMO","Oct 30, 2021",0.02,"1,389"
+262,Bill,JOBS,"Dec 13, 2021 BMO","Nov 7, 2021",0.64,140.94
+263,Bill,CYD,"Dec 13, 2021 BMO","Nov 7, 2021",0.45,625.26
+264,Bill,NM,"Dec 15, 2021 BMO","Nov 20, 2021",2.42,146.90
+265,Bill,TCOM,"Dec 15, 2021 AMC","Nov 20, 2021",0.17,887.02
+266,Bill,JOUT,"Feb 4, 2022 BMO","Dec 5, 2021",1.60,164.46
+267,Bill,CCJ,"Feb 11, 2022 BMO","Oct 1, 2021 68 days ago",0.01,301.14
+268,Bill,DISH,"Feb 23, 2022 BMO","Nov 4, 2021",0.90,"4,472"
+269,larrylai,HRL,"Dec 9, 2021 BMO","Nov 5, 2021",0.50,"3,222"
+270,larrylai,MTN,"Dec 9, 2021 AMC","Nov 4, 2021",-3.50,200.00
+271,larrylai,AVGO,"Dec 9, 2021 AMC","Nov 17, 2021",7.77,"7,396"
+272,larrylai,COST,"Dec 9, 2021 AMC","Nov 5, 2021",2.70,"49,009"
+273,larrylai,ORCL,"Dec 9, 2021 AMC","Nov 22, 2021",1.12,"10,266"
+274,larrylai,LULU,"Dec 9, 2021 AMC","Nov 17, 2021",1.50,"1,449"
+275,larrylai,GRUB,"Dec 10, 2021 AMC","Oct 18, 2021 51 days ago",-0.05,580.00
+276,larrylai,HEXO,"Dec 13, 2021 BMO","Nov 17, 2021",-0.07,43.00
+277,larrylai,TCOM,"Dec 15, 2021 AMC","Nov 4, 2021",0.11,899.00
+278,larrylai,ADBE,"Dec 16, 2021 AMC","Nov 22, 2021",3.26,"4,165"
+279,larrylai,BB,"Dec 16, 2021 AMC","Nov 22, 2021",-0.06,179.10
+280,larrylai,DRI,"Dec 17, 2021 BMO","Nov 5, 2021",1.48,"2,234"
+281,larrylai,NKE,"Dec 20, 2021 AMC","Nov 17, 2021",0.73,"11,510"
+282,Randal Konik,FIVE,"Mar 23, 2022 AMC","Mar 22, 2020 626 days ago",1.69,
+283,Kyle Joseph,CODI,"Mar 2, 2022 AMC","Mar 9, 2020 639 days ago",-1000000000000000000.00,
+284,Analyst_4716043,ABM,"Dec 15, 2021 BMO","Oct 19, 2021 50 days ago",1.02,"1,795"
+285,Analyst_4716043,KRUS,"Jan 11, 2022 AMC","Nov 12, 2021",-0.13,28.48
+286,Analyst_4716043,VZ,"Jan 25, 2022 BMO","Oct 26, 2021",1.26,"33,628"
+287,Analyst_4716043,TXN,"Jan 26, 2022 AMC","Oct 26, 2021",1.89,"4,276"
+288,Analyst_4716043,OTIS,"Jan 31, 2022 BMO","Oct 26, 2021",0.74,"3,571"
+289,Analyst_4716043,NEU,"Feb 1, 2022 AMC","Oct 19, 2021 50 days ago",6.36,588.09
+290,Analyst_4716043,EZPW,"Feb 2, 2022 AMC","Oct 19, 2021 50 days ago",0.13,208.49
+291,Analyst_4716043,GPRE,"Feb 9, 2022 BMO","Nov 12, 2021",-0.30,702.99
+292,Analyst_4716043,THS,"Feb 10, 2022 BMO","Oct 19, 2021 50 days ago",0.07,"1,227"
+293,Analyst_4716043,CPB,"Feb 18, 2022 BMO","Oct 19, 2021 50 days ago",0.62,"2,217"
+294,Analyst_4716043,VMI,"Feb 23, 2022 AMC","Oct 26, 2021",2.58,846.29
+295,Analyst_4716043,SFL,"Mar 1, 2022 BMO","Aug 18, 2021 112 days ago",0.05,96.18
+296,Analyst_4716043,ABM,"Mar 8, 2022 AMC","Oct 19, 2021 50 days ago",1.05,"1,803"
+297,Analyst_4716043,KRUS,"Apr 19, 2022 AMC","Nov 12, 2021",-0.07,32.54
+298,Analyst_4716043,VMI,"Apr 20, 2022 AMC","Oct 26, 2021",3.37,847.02
+299,Analyst_4716043,VZ,"Apr 22, 2022 BMO","Oct 26, 2021",1.21,"31,061"
+300,Analyst_4716043,TXN,"Apr 26, 2022 AMC","Oct 26, 2021",1.83,"4,499"
+301,Analyst_4716043,NEU,"Apr 27, 2022 AMC","Oct 19, 2021 50 days ago",6.74,609.78
+302,Analyst_4716043,GPRE,"May 2, 2022 BMO","Nov 12, 2021",-0.22,614.75
+303,Analyst_4716043,EZPW,"May 4, 2022 AMC","Oct 19, 2021 50 days ago",0.02,202.05
+304,Analyst_4716043,THS,"May 5, 2022 BMO","Oct 19, 2021 50 days ago",0.22,"1,068"
+305,Analyst_4716043,OTIS,"May 12, 2022 BMO","Oct 26, 2021",0.65,"3,394"
+306,Analyst_4716043,CPB,"May 20, 2022 BMO","Oct 19, 2021 50 days ago",0.58,"1,992"
+307,Analyst_4716043,SFL,"May 31, 2022 BMO","Aug 18, 2021 112 days ago",0.05,95.31
+308,Analyst_4716043,ABM,"Jun 8, 2022 AMC","Oct 19, 2021 50 days ago",1.05,"1,808"
+309,Michael Merry,COST,"Dec 9, 2021 AMC","Oct 5, 2021 64 days ago",3.05,"48,459"
+310,Michael Merry,FDX,"Dec 16, 2021 AMC","Oct 5, 2021 64 days ago",4.44,"22,512"
+311,Michael Merry,PAYX,"Dec 22, 2021 BMO","Oct 5, 2021 64 days ago",0.82,"1,066"
+312,Michael Merry,BA,"Jan 26, 2022 BMO","Nov 18, 2021",-0.15,"18,184"
+313,Michael Merry,CAT,"Jan 27, 2022 BMO","Nov 18, 2021",2.34,"13,126"
+314,Michael Merry,XOM,"Feb 1, 2022 BMO","Nov 18, 2021",1.71,"84,870"
+315,Michael Merry,SCCO,"Feb 3, 2022 BMO","Nov 18, 2021",1.10,"2,594"
+316,Michael Merry,HD,"Feb 22, 2022 BMO","Nov 18, 2021",3.11,"34,459"
+317,Michael Merry,SQM,"Mar 2, 2022 AMC","Nov 18, 2021",0.63,709.42
+318,John Hecht,CODI,"Mar 2, 2022 AMC","Mar 9, 2020 639 days ago",-1000000000000000000.00,
+319,Analyst_2324096,NKE,"Dec 20, 2021 AMC","Jun 25, 2021 167 days ago",1.02,"12,537"
+320,Analyst_2324096,NFLX,"Jan 18, 2022 AMC","Jun 20, 2021 171 days ago",1.50,"7,800"
+321,Analyst_2324096,CAT,"Jan 27, 2022 BMO","Jun 20, 2021 171 days ago",2.30,"12,500"
+322,Analyst_2324096,GE,"Jan 27, 2022 BMO","Jun 24, 2021 167 days ago",0.88,"22,355"
+323,Analyst_2324096,APD,"Jan 28, 2022 BMO","Apr 28, 2021 224 days ago",2.52,"2,571"
+324,Analyst_2324096,AME,"Feb 3, 2022 BMO","Jun 25, 2021 167 days ago",1.20,"1,416"
+325,Analyst_2324096,AMZN,"Feb 3, 2022 AMC","Jun 17, 2021 174 days ago",14.82,"148,696"
+326,Analyst_2324096,CMI,"Feb 8, 2022 BMO","Jun 20, 2021 171 days ago",3.85,"5,750"
+327,Analyst_2324096,GILD,"Feb 8, 2022 AMC","Apr 28, 2021 224 days ago",1.64,"6,036"
+328,Analyst_2324096,UFPI,"Feb 16, 2022 AMC","Apr 28, 2021 224 days ago",1.11,"1,706"
+329,Analyst_2324096,NKE,"Mar 22, 2022 AMC","Jun 25, 2021 167 days ago",1.04,"11,737"
+330,Analyst_2324096,NFLX,"Apr 18, 2022 AMC","Jun 20, 2021 171 days ago",3.53,"8,100"
+331,Analyst_2324096,UFPI,"Apr 20, 2022 AMC","Apr 28, 2021 224 days ago",1.33,"1,836"
+332,Analyst_2324096,GE,"Apr 22, 2022 BMO","Jun 24, 2021 167 days ago",0.56,"18,260"
+333,Analyst_2324096,CAT,"Apr 28, 2022 BMO","Jun 20, 2021 171 days ago",2.70,"12,400"
+334,Analyst_2324096,AMZN,"Apr 28, 2022 AMC","Jun 17, 2021 174 days ago",17.88,"129,473"
+335,Analyst_2324096,CMI,"May 3, 2022 BMO","Jun 20, 2021 171 days ago",4.50,"6,250"
+336,Analyst_2324096,AME,"May 3, 2022 BMO","Jun 25, 2021 167 days ago",1.26,"1,410"
+337,Analyst_2324096,NKE,"Jun 30, 2022 AMC","Jun 25, 2021 167 days ago",0.77,"12,081"
+338,Analyst_8532270,COST,"Dec 9, 2021 AMC","Dec 6, 2021",2.72,"52,695"
+339,Analyst_8532270,PEP,"Feb 10, 2022 BMO","Sep 17, 2021 82 days ago",1.60,"23,537"
+340,rpajam,LULU,"Dec 9, 2021 AMC","Dec 2, 2021",1.65,"1,497"
+341,rpajam,ADBE,"Dec 16, 2021 AMC","Sep 22, 2021 77 days ago",3.25,"4,128"
+342,rpajam,NKE,"Dec 20, 2021 AMC","Sep 27, 2021 72 days ago",1.05,"13,093"
+343,rpajam,MU,"Dec 20, 2021 AMC","Oct 7, 2021 62 days ago",2.42,"8,348"
+344,rpajam,JPM,"Jan 14, 2022 BMO","Oct 7, 2021 62 days ago",3.44,"31,752"
+345,rpajam,WFC,"Jan 14, 2022 BMO","Oct 8, 2021 61 days ago",0.96,"18,832"
+346,rpajam,GS,"Jan 18, 2022 BMO","Oct 18, 2021 51 days ago",11.15,"12,630"
+347,rpajam,NFLX,"Jan 18, 2022 AMC","Oct 25, 2021",1.69,"7,867"
+348,rpajam,IBM,"Jan 24, 2022 AMC","Nov 1, 2021",3.80,"21,193"
+349,rpajam,INTC,"Jan 26, 2022 AMC","Oct 25, 2021",1.14,"19,367"
+350,rpajam,MSFT,"Jan 27, 2022 AMC","Nov 4, 2021",2.42,"49,990"
+351,rpajam,ABBV,"Jan 28, 2022 BMO","Oct 26, 2021",3.50,"16,020"
+352,rpajam,AAPL,"Feb 1, 2022 AMC","Oct 29, 2021",1.98,"121,368"
+353,rpajam,AMD,"Feb 1, 2022 AMC","Nov 1, 2021",0.79,"4,583"
+354,rpajam,CHKP,"Feb 2, 2022 BMO","Oct 25, 2021",2.29,600.60
+355,rpajam,BABA,"Feb 2, 2022 BMO","Nov 23, 2021",3.39,"42,747"
+356,rpajam,EBAY,"Feb 2, 2022 AMC","Oct 25, 2021",1.10,"3,014"
+357,rpajam,TSLA,"Feb 2, 2022 AMC","Oct 25, 2021",2.15,"16,155"
+358,rpajam,GOOGL,"Feb 2, 2022 AMC","Nov 8, 2021",27.56,"59,936"
+359,rpajam,AMZN,"Feb 3, 2022 AMC","Oct 26, 2021",15.21,"146,335"
+360,rpajam,CMG,"Feb 8, 2022 AMC","Oct 25, 2021",6.11,"1,975"
+361,rpajam,GILD,"Feb 8, 2022 AMC","Oct 29, 2021",1.69,"6,514"
+362,rpajam,CPRI,"Feb 9, 2022 BMO","Jul 27, 2021 134 days ago",1.82,"1,528"
+363,rpajam,YELP,"Feb 9, 2022 AMC","Nov 1, 2021",0.22,279.01
+364,rpajam,ATVI,"Feb 10, 2022 AMC","Oct 5, 2021 64 days ago",1.47,"3,114"
+365,Analyst_9402829,NFLX,"Jan 18, 2022 AMC","Aug 2, 2021 128 days ago",1.13,"7,680"
+366,Analyst_9402829,X,"Feb 2, 2022 AMC","Aug 2, 2021 128 days ago",3.25,"4,933"
+367,Analyst_9402829,AMZN,"Feb 3, 2022 AMC","Aug 2, 2021 128 days ago",12.87,"143,630"
+368,Analyst_9402829,SQ,"Mar 2, 2022 AMC","Aug 2, 2021 128 days ago",0.46,"4,955"
+369,Analyst_9402829,NFLX,"Apr 18, 2022 AMC","Aug 2, 2021 128 days ago",3.45,"8,169"
+370,Analyst_9402829,X,"Apr 26, 2022 AMC","Aug 2, 2021 128 days ago",2.10,"4,348"
+371,Analyst_9402829,AMZN,"Apr 28, 2022 AMC","Aug 2, 2021 128 days ago",17.26,"125,767"
+372,Analyst_9402829,SQ,"May 4, 2022 AMC","Aug 2, 2021 128 days ago",0.45,"5,175"
+373,Analyst_9402829,NFLX,"Jul 18, 2022 AMC","Aug 2, 2021 128 days ago",3.56,"8,461"
+374,Analyst_9402829,X,"Jul 26, 2022 AMC","Aug 2, 2021 128 days ago",1.45,"4,033"
+375,Analyst_9402829,AMZN,"Jul 28, 2022 AMC","Aug 2, 2021 128 days ago",16.86,"133,651"
+376,Analyst_9402829,SQ,"Aug 3, 2022 AMC","Aug 2, 2021 128 days ago",0.50,"5,560"
+377,Analyst_5184679,IBM,"Jan 24, 2022 AMC","Nov 4, 2021",3.82,"18,956"
+378,Analyst_5184679,BBY,"Mar 2, 2022 BMO","Nov 17, 2021",2.95,"15,890"
+379,Analyst_5184679,BBY,"May 26, 2022 BMO","Nov 17, 2021",1.75,"10,192"
+380,"Bret Jordan, CFA",LAD,"Feb 16, 2022 BMO","Apr 17, 2020 600 days ago",3.22,"3,589"
+381,Philip Mascherino,EDU,"Dec 13, 2021 BMO","Sep 26, 2021 73 days ago",0.04,"1,146"
+382,Philip Mascherino,UPS,"Feb 1, 2022 BMO","Oct 26, 2021",2.98,"26,850"
+383,Philip Mascherino,PINS,"Feb 10, 2022 AMC","Nov 29, 2021",0.51,838.00
+384,Philip Mascherino,DOCU,"Mar 17, 2022 AMC","Mar 26, 2021 257 days ago",1.09,750.00
+385,Dana Telsey,LULU,"Dec 9, 2021 AMC","Dec 3, 2021",1.41,
+386,Dana Telsey,VFC,"Jan 27, 2022 BMO","Oct 25, 2021",1.20,
+387,Dana Telsey,EL,"Feb 3, 2022 BMO","Nov 3, 2021",2.65,
+388,Dana Telsey,RL,"Feb 3, 2022 BMO","Nov 3, 2021",2.18,
+389,Dana Telsey,DECK,"Feb 3, 2022 AMC","Oct 29, 2021",8.55,"1,196"
+390,Dana Telsey,CPRI,"Feb 9, 2022 BMO","Nov 4, 2021",1.65,
+391,Dana Telsey,TPR,"Feb 10, 2022 BMO","Nov 12, 2021",1.18,
+392,Dana Telsey,LEVI,"Feb 10, 2022 AMC","Jul 9, 2021 152 days ago",0.40,
+393,Dana Telsey,FOSL,"Feb 15, 2022 AMC","May 9, 2020 578 days ago",0.04,
+394,Dana Telsey,DDS,"Feb 21, 2022 BMO","Nov 12, 2021",8.75,
+395,Dana Telsey,M,"Feb 22, 2022 BMO","Nov 19, 2021",1.90,
+396,Dana Telsey,WWW,"Feb 23, 2022 BMO","Nov 11, 2021",0.43,636.00
+397,Dana Telsey,BBWI,"Feb 23, 2022 AMC","Nov 18, 2021",2.27,
+398,Dana Telsey,KSS,"Feb 24, 2022 BMO","Nov 19, 2021",2.15,
+399,Dana Telsey,SHOO,"Mar 1, 2022 BMO","Nov 4, 2021",0.72,539.00
+400,Dana Telsey,ROST,"Mar 1, 2022 AMC","Nov 19, 2021",0.99,
+401,Dana Telsey,TJX,"Mar 2, 2022 BMO","Nov 18, 2021",1.03,
+402,Dana Telsey,CHS,"Mar 2, 2022 BMO","Sep 1, 2021 99 days ago",0.05,
+403,Dana Telsey,AEO,"Mar 2, 2022 BMO","Nov 24, 2021",0.42,
+404,Dana Telsey,ANF,"Mar 2, 2022 BMO","Nov 24, 2021",1.65,
+405,Dana Telsey,BURL,"Mar 3, 2022 BMO","Nov 24, 2021",3.21,
+406,Dana Telsey,JWN,"Mar 3, 2022 AMC","Nov 24, 2021",0.94,14.31
+407,Dana Telsey,GPS,"Mar 3, 2022 AMC","Nov 24, 2021",-0.14,
+408,Dana Telsey,PLCE,"Mar 8, 2022 BMO","Nov 19, 2021",3.45,
+409,Dana Telsey,URBN,"Mar 8, 2022 AMC","Nov 23, 2021",0.74,
+410,Joseph Feldman,COST,"Dec 9, 2021 AMC","Nov 4, 2021",2.60,
+411,Joseph Feldman,NKE,"Dec 20, 2021 AMC","Dec 21, 2020 352 days ago",1.06,"12,463"
+412,Joseph Feldman,BBBY,"Jan 6, 2022 BMO","Jan 28, 2021 315 days ago",0.20,
+413,Joseph Feldman,ACI,"Jan 18, 2022 BMO","Oct 18, 2021 51 days ago",0.52,
+414,Joseph Feldman,ETH,"Jan 26, 2022 AMC","Jan 14, 2021 328 days ago",0.71,
+415,Joseph Feldman,TSCO,"Feb 2, 2022 BMO","Oct 22, 2021 48 days ago",1.83,
+416,Joseph Feldman,AMZN,"Feb 3, 2022 AMC","Oct 29, 2021",4.47,
+417,Joseph Feldman,UAA,"Feb 15, 2022 BMO","Feb 10, 2021 301 days ago",0.06,"1,377"
+418,Joseph Feldman,WMT,"Feb 17, 2022 BMO","Nov 16, 2021",1.63,
+419,Joseph Feldman,HD,"Feb 22, 2022 BMO","Nov 17, 2021",3.00,
+420,Joseph Feldman,LOW,"Feb 23, 2022 BMO","Nov 18, 2021",1.68,
+421,Joseph Feldman,FND,"Feb 24, 2022 AMC","Nov 5, 2021",0.45,
+422,Joseph Feldman,FL,"Feb 25, 2022 BMO","Feb 26, 2021 285 days ago",1.67,"2,336"
+423,Joseph Feldman,BBY,"Mar 2, 2022 BMO","Nov 23, 2021",3.50,
+424,Joseph Feldman,DLTR,"Mar 2, 2022 BMO","Nov 24, 2021",1.79,
+425,Joseph Feldman,KR,"Mar 3, 2022 BMO","Sep 10, 2021 89 days ago",0.71,
+426,Joseph Feldman,COST,"Mar 3, 2022 AMC","Nov 4, 2021",2.58,
+427,Joseph Feldman,BIG,"Mar 4, 2022 BMO","Dec 3, 2021",2.20,
+428,Joseph Feldman,TGT,"Mar 8, 2022 BMO","Nov 18, 2021",2.90,
+429,Joseph Feldman,DKS,"Mar 8, 2022 BMO","Nov 23, 2021",3.05,
+430,Joseph Feldman,PRTY,"Mar 10, 2022 BMO","Aug 5, 2021 125 days ago",0.42,
+431,Joseph Feldman,WSM,"Mar 16, 2022 AMC","Nov 20, 2020 383 days ago",2.74,
+432,Joseph Feldman,DG,"Mar 17, 2022 BMO","Dec 2, 2021",2.59,
+433,Joseph Feldman,NKE,"Mar 22, 2022 AMC","Dec 21, 2020 352 days ago",1.03,"12,274"
+434,Joseph Feldman,FIVE,"Mar 23, 2022 AMC","Dec 2, 2021",2.48,
+435,"Cristina Fernández, CPA",NKE,"Dec 20, 2021 AMC","Sep 24, 2021 76 days ago",0.67,"12,473"
+436,"Cristina Fernández, CPA",BBBY,"Jan 6, 2022 BMO","Nov 3, 2021",0.04,
+437,"Cristina Fernández, CPA",ETH,"Jan 26, 2022 AMC","Aug 10, 2021 121 days ago",0.69,
+438,"Cristina Fernández, CPA",UAA,"Feb 15, 2022 BMO","Nov 3, 2021",0.04,"1,439"
+439,"Cristina Fernández, CPA",FL,"Feb 25, 2022 BMO","Nov 19, 2021",1.45,"2,310"
+440,"Cristina Fernández, CPA",HIBB,"Mar 11, 2022 BMO","Dec 3, 2021",1.78,
+441,"Cristina Fernández, CPA",WSM,"Mar 16, 2022 AMC","Nov 19, 2021",4.87,
+442,"Cristina Fernández, CPA",NKE,"Mar 22, 2022 AMC","Sep 24, 2021 76 days ago",0.63,"11,315"
+443,"Cristina Fernández, CPA",RH,"Mar 29, 2022 AMC","Dec 9, 2021 0 days ago",5.69,874.00
+444,"Cristina Fernández, CPA",BBBY,"Apr 13, 2022 BMO","Nov 3, 2021",0.95,
+445,"Cristina Fernández, CPA",ETH,"Apr 28, 2022 AMC","Aug 10, 2021 121 days ago",0.63,
+446,"Cristina Fernández, CPA",UAA,"May 3, 2022 BMO","Nov 3, 2021",0.16,"1,365"
+447,"Cristina Fernández, CPA",FL,"May 20, 2022 BMO","Nov 19, 2021",1.77,"2,205"
+448,"Cristina Fernández, CPA",WSM,"May 25, 2022 AMC","Nov 19, 2021",2.80,
+449,"Cristina Fernández, CPA",HIBB,"May 27, 2022 BMO","Dec 3, 2021",4.70,
+450,"Cristina Fernández, CPA",RH,"Jun 8, 2022 AMC","Dec 9, 2021 0 days ago",4.56,821.00
+451,"Cristina Fernández, CPA",BBBY,"Jun 23, 2022 BMO","Nov 3, 2021",0.13,
+452,"Cristina Fernández, CPA",NKE,"Jun 30, 2022 AMC","Sep 24, 2021 76 days ago",1.14,"12,125"
+453,"Cristina Fernández, CPA",ETH,"Jul 27, 2022 AMC","Aug 10, 2021 121 days ago",0.72,
+454,"Cristina Fernández, CPA",UAA,"Aug 2, 2022 BMO","Nov 3, 2021",0.33,"1,631"
+455,"Cristina Fernández, CPA",FL,"Aug 19, 2022 BMO","Nov 19, 2021",1.98,"2,371"
+456,"Cristina Fernández, CPA",WSM,"Aug 24, 2022 AMC","Nov 19, 2021",3.35,
+457,"Cristina Fernández, CPA",HIBB,"Aug 26, 2022 BMO","Dec 3, 2021",3.25,
+458,"Cristina Fernández, CPA",RH,"Sep 7, 2022 AMC","Dec 9, 2021 0 days ago",6.48,966.00
+459,"Cristina Fernández, CPA",BBBY,"Sep 21, 2022 BMO","Nov 3, 2021",0.41,
+460,Janine Stichter,AEO,"Mar 2, 2022 BMO","Mar 16, 2020 632 days ago",0.42,
